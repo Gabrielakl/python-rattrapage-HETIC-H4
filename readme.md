@@ -1,4 +1,3 @@
-i
 # Python rattrapage
 
 Ce repository correspond à une suite d'exercice qui test mes capacités à coder sur des exercices simples.
